@@ -8,15 +8,21 @@ main.cpp - основной файл программы
 notebook.cpp, notebook.h - Записная книжка
 
 add_contact_dialog.cpp, add_contact_dialog.h - диалоговое окно добавления контакта в Телефонную книгу
+
 find_contact_by_fio_dialog.cpp, find_contact_by_fio_dialog.h - диалоговое окно поиска контакта по фамилии
+
 find_contact_by_phonenumber_dialog.cpp, find_contact_by_phonenumber_dialog.h - диалоговое окно поиска контакта по номеру телефона
+
 find_contact_by_who_dialog.cpp, find_contact_by_who_dialog.h - диалоговое окно поиска контакта по его роли (то есть кем он является)
 
 add_event_dialog.cpp, add_event_dialog.h - диалоговое окно добавления события в Журнал событий
+
 find_event_by_date_dialog.cpp, find_event_by_date_dialog.h - диалоговое окно поиска события по дате
+
 find_event_by_name_dialog.cpp, find_event_by_name_dialog.h - диалоговое окно поиска события по названию
 
 add_task_dialog.cpp, add_task_dialog.h - диалоговое окно добавления дела в Журнал дел
+
 find_task_by_date_dialog.cpp, find_task_by_date_dialog.h - диалоговое окно поиска дела по дате
 
 Описание приложения "Записная книжка"
